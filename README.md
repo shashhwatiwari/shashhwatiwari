@@ -135,7 +135,7 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 | Degree | Institution | Year |
 |---|---|---|
 | **MS Computer Science** *(GPA 4.0)* | Northeastern University, Boston | 2024 – 2026 |
-| **BS Computer Science** *(GPA 3.5)* | Shiv Nadar University, India | 2020 – 2024 |
+| **BS Computer Science** *(GPA 3.8)* | Shiv Nadar University, India | 2020 – 2024 |
 
 **Relevant Coursework:** Algorithms · Machine Learning · Artificial Intelligence · Database Systems · Data Visualization · Cloud Computing · Software Engineering · Web Development · OOP
 
