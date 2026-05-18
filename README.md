@@ -22,7 +22,7 @@
 
 Built **RegTranslate**, a SaaS compliance tool that ingests regulatory PDFs (HIPAA, GDPR) and auto-generates structured developer tasks (Jira tickets) using **Llama 3 + LangChain**. Semantic retrieval over **ChromaDB** with HuggingFace embeddings, React dashboard, FastAPI async backend with chunked document processing. End-to-end RAG, from PDF chunk to engineering ticket.
 
-<a href="https://github.com/suhasramanand/regtranslate"><img src="https://img.shields.io/badge/▶_View_Repo-1f6feb?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/shashhwatiwari/regtranslate"><img src="https://img.shields.io/badge/▶_View_Repo-1f6feb?style=for-the-badge&logoColor=white"></a>
 
 ---
 
