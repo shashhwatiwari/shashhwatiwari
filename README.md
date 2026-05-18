@@ -87,36 +87,6 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-
-## 💼 Experience
-
-| Role | Company | Duration | Location |
-|---|---|---|---|
-| **Graduate Teaching Assistant** | Northeastern University | September 2025 – May 2026 | Boston, MA |
-| **Data Analyst Intern** | Bain & Company | Jan 2024 – Jul 2024 | India |
-| **Software Engineer Intern** | Aftershoot Inc. | May 2023 – Jul 2023 | India |
-
-### Bain & Company - *Data Analyst Intern (Jan 2024 – Jul 2024)*
-- Designed and deployed end-to-end ML pipelines for **M&A deal screening** across 20–75 datasets - K-Means + hierarchical clustering segmented acquisition targets by financial profile, **cutting manual analyst review time by 40%**
-- Built a **time-series forecasting model (ARIMA + XGBoost ensemble)** to predict M&A activity signals across industries, improving prospect prioritization accuracy by **18%** over rule-based heuristics
-- Engineered automated SQL + Python ingestion pipelines (Pandas, SQLAlchemy) with schema validation and anomaly-detection hooks, maintaining **>95% data accuracy** across a 1,000+ prospect corpus
-- Developed NLP classification models (TF-IDF + Logistic Regression, spaCy NER) for automated document tagging and regulatory text anomaly detection, **cutting manual labeling overhead by 60%**
-
-### Aftershoot Inc. - *Software Engineer Intern (May 2023 – Jul 2023)*
-- Architected a high-throughput data ingestion pipeline in Python (Pandas, NumPy) to normalize subscription and usage telemetry from the **Stripe API**, enabling downstream churn analytics
-- **Rewrote core ETL modules from Python to Rust**, reducing pipeline processing time by **3×** and peak memory by **45%** - letting the platform scale data volume without scaling infrastructure
-- Designed data schemas and processing logic that directly informed product and data-science feature prioritization
-
----
-
-## 🏆 Recognition
-
-| # | Award / Credential | Issuer |
-|---|---|---|
-| 🥇 | **4.0 GPA - MS Computer Science** | Northeastern University |
-| ☁️ | **AWS Certified - Associate (ACA) + Foundational (ACF)** | Amazon Web Services |
-| 👨‍🏫 | **Graduate Teaching Assistant** | Northeastern University |
 
 ---
 
@@ -127,6 +97,17 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 | [**RegTranslate**](https://regtranslate.vercel.app/) | RAG-based SaaS compliance tool - ingests HIPAA/GDPR PDFs and auto-generates Jira tickets | Llama 3, LangChain, ChromaDB, FastAPI, React, Docker |
 | [**StaffSync**](https://github.com/shashhwatiwari/StaffSync) | Role-based employee management platform with payroll, leave & audit-logging automation | Django, MySQL, Python, Matplotlib |
 | [**Emotion Classification Benchmarks**](https://github.com/YOUR-GITHUB-HANDLE/emotion-benchmarks) | Cross-domain benchmark of BERT, RoBERTa, DistilBERT vs. classical baselines on GoEmotions, TweetEval, IMDb | PyTorch, Transformers, scikit-learn |
+
+
+---
+
+## 🏆 Recognition
+
+| # | Award / Credential | Issuer |
+|---|---|---|
+| 🥇 | **4.0 GPA - MS Computer Science** | Northeastern University |
+| ☁️ | **AWS Certified - Associate (ACA) + Foundational (ACF)** | Amazon Web Services |
+| 👨‍🏫 | **Graduate Teaching Assistant** | Northeastern University |
 
 ---
 
