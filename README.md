@@ -95,7 +95,7 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 |---|---|---|---|
 | **Graduate Teaching Assistant** | Northeastern University | September 2025 – May 2026 | Boston, MA |
 | **Data Analyst Intern** | Bain & Company | Jan 2024 – Jul 2024 | India |
-| **Software Engineer Intern** | Aftershoot Inc. | May 2023 – Jul 2023 | Remote |
+| **Software Engineer Intern** | Aftershoot Inc. | May 2023 – Jul 2023 | India |
 
 ### Bain & Company - *Data Analyst Intern (Jan 2024 – Jul 2024)*
 - Designed and deployed end-to-end ML pipelines for **M&A deal screening** across 20–75 datasets - K-Means + hierarchical clustering segmented acquisition targets by financial profile, **cutting manual analyst review time by 40%**
