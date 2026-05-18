@@ -4,8 +4,8 @@
   <strong>MS Computer Science @ Northeastern · Graduate Teaching Assistant · Data Science & Engineering</strong>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-tiwari--shashwat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/YOUR-GITHUB-HANDLE"><img src="https://img.shields.io/badge/GitHub-shashwat-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shashwat-tiwari118/"><img src="https://img.shields.io/badge/LinkedIn-tiwari--shashwat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/shashhwatiwari"><img src="https://img.shields.io/badge/GitHub-shashwat-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:tiwari.sha@northeastern.edu"><img src="https://img.shields.io/badge/Email-tiwari.sha%40northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
