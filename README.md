@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Spotlight: RegTranslate — RAG-Based Compliance Automation
+## 🚀 Spotlight: RegTranslate - RAG-Based Compliance Automation
 
 Built **RegTranslate**, a SaaS compliance tool that ingests regulatory PDFs (HIPAA, GDPR) and auto-generates structured developer tasks (Jira tickets) using **Llama 3 + LangChain**. Semantic retrieval over **ChromaDB** with HuggingFace embeddings, React dashboard, FastAPI async backend with chunked document processing. End-to-end RAG, from PDF chunk to engineering ticket.
 
@@ -32,7 +32,7 @@ I'm a recent Computer Science graduate from ** Northeastern University **, with 
 
 Most recently, I was a **Data Analyst Intern at Bain & Company**, where I built ML pipelines for M&A deal screening and time-series forecasting models for prospect prioritization. Before that, I rewrote ETL infrastructure from Python to **Rust** at Aftershoot Inc., cutting pipeline runtime by 3×.
 
-I like the messy middle of ML systems: data ingestion, schema design, retrieval, evaluation — the parts where models meet real-world data and break in interesting ways.
+I like the messy middle of ML systems: data ingestion, schema design, retrieval, evaluation - the parts where models meet real-world data and break in interesting ways.
 
 ---
 
@@ -97,15 +97,15 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 | **Data Analyst Intern** | Bain & Company | Jan 2024 – Jul 2024 | India |
 | **Software Engineer Intern** | Aftershoot Inc. | May 2023 – Jul 2023 | Remote |
 
-### Bain & Company — *Data Analyst Intern (Jan 2024 – Jul 2024)*
-- Designed and deployed end-to-end ML pipelines for **M&A deal screening** across 20–75 datasets — K-Means + hierarchical clustering segmented acquisition targets by financial profile, **cutting manual analyst review time by 40%**
+### Bain & Company - *Data Analyst Intern (Jan 2024 – Jul 2024)*
+- Designed and deployed end-to-end ML pipelines for **M&A deal screening** across 20–75 datasets - K-Means + hierarchical clustering segmented acquisition targets by financial profile, **cutting manual analyst review time by 40%**
 - Built a **time-series forecasting model (ARIMA + XGBoost ensemble)** to predict M&A activity signals across industries, improving prospect prioritization accuracy by **18%** over rule-based heuristics
 - Engineered automated SQL + Python ingestion pipelines (Pandas, SQLAlchemy) with schema validation and anomaly-detection hooks, maintaining **>95% data accuracy** across a 1,000+ prospect corpus
 - Developed NLP classification models (TF-IDF + Logistic Regression, spaCy NER) for automated document tagging and regulatory text anomaly detection, **cutting manual labeling overhead by 60%**
 
-### Aftershoot Inc. — *Software Engineer Intern (May 2023 – Jul 2023)*
+### Aftershoot Inc. - *Software Engineer Intern (May 2023 – Jul 2023)*
 - Architected a high-throughput data ingestion pipeline in Python (Pandas, NumPy) to normalize subscription and usage telemetry from the **Stripe API**, enabling downstream churn analytics
-- **Rewrote core ETL modules from Python to Rust**, reducing pipeline processing time by **3×** and peak memory by **45%** — letting the platform scale data volume without scaling infrastructure
+- **Rewrote core ETL modules from Python to Rust**, reducing pipeline processing time by **3×** and peak memory by **45%** - letting the platform scale data volume without scaling infrastructure
 - Designed data schemas and processing logic that directly informed product and data-science feature prioritization
 
 ---
@@ -114,8 +114,8 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 
 | # | Award / Credential | Issuer |
 |---|---|---|
-| 🥇 | **4.0 GPA — MS Computer Science** | Northeastern University |
-| ☁️ | **AWS Certified — Associate (ACA) + Foundational (ACF)** | Amazon Web Services |
+| 🥇 | **4.0 GPA - MS Computer Science** | Northeastern University |
+| ☁️ | **AWS Certified - Associate (ACA) + Foundational (ACF)** | Amazon Web Services |
 | 👨‍🏫 | **Graduate Teaching Assistant** | Northeastern University |
 
 ---
@@ -124,7 +124,7 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 
 | Project | Description | Stack |
 |---|---|---|
-| [**RegTranslate**](https://regtranslate.vercel.app/) | RAG-based SaaS compliance tool — ingests HIPAA/GDPR PDFs and auto-generates Jira tickets | Llama 3, LangChain, ChromaDB, FastAPI, React, Docker |
+| [**RegTranslate**](https://regtranslate.vercel.app/) | RAG-based SaaS compliance tool - ingests HIPAA/GDPR PDFs and auto-generates Jira tickets | Llama 3, LangChain, ChromaDB, FastAPI, React, Docker |
 | [**StaffSync**](https://github.com/shashhwatiwari/StaffSync) | Role-based employee management platform with payroll, leave & audit-logging automation | Django, MySQL, Python, Matplotlib |
 | [**Emotion Classification Benchmarks**](https://github.com/YOUR-GITHUB-HANDLE/emotion-benchmarks) | Cross-domain benchmark of BERT, RoBERTa, DistilBERT vs. classical baselines on GoEmotions, TweetEval, IMDb | PyTorch, Transformers, scikit-learn |
 
@@ -141,4 +141,4 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 
 ---
 
-<p align="center"><em>Open to ML/data engineering/ applied AI roles — full-time 2026.</em></p>
+<p align="center"><em>Open to ML/data engineering/ applied AI roles - full-time 2026.</em></p>
