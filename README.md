@@ -141,11 +141,4 @@ I like the messy middle of ML systems: data ingestion, schema design, retrieval,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashhwatiwari&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashwat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashhwatiwari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="center"><em>Open to ML/data engineering/ applied AI roles — full-time 2026.</em></p>
