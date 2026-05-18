@@ -28,7 +28,7 @@ Built **RegTranslate**, a SaaS compliance tool that ingests regulatory PDFs (HIP
 
 ## 👋 About Me
 
-I'm a recent Computer Science graduate from ** Northeastern University **, with a **4.0 GPA**, focused on **data science, ML systems, and applied NLP**.
+I'm a recent Computer Science graduate from **Northeastern University**, with a **4.0 GPA**, focused on **data science, ML systems, and applied NLP**.
 
 Most recently, I was a **Data Analyst Intern at Bain & Company**, where I built ML pipelines for M&A deal screening and time-series forecasting models for prospect prioritization. Before that, I rewrote ETL infrastructure from Python to **Rust** at Aftershoot Inc., cutting pipeline runtime by 3×.
 
